@@ -1,5 +1,5 @@
 # fruit-ninja
-author-Mayuri
+author-Mayuri Agrawal
 
 </br>
 mt first project
